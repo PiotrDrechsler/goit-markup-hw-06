@@ -70,6 +70,10 @@ address {
   overflow: hidden;
 }
 
+input:focus, textarea:focus {
+  outline: none
+}
+
 /* ======= L I N K S  ======= */
 
 .list {
